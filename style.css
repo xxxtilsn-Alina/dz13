@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.headr {
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(240, 172, 206);
+}
+
+.logo {
+    font-family: 'Nunito', sans-serif;
+    font-size: 70px;
+    font-weight: 900;
+}
+
+.manu-itms {
+    text-decoration: none;
+    color: black;
+    font-family: 'Nunito', sans-serif;
+    font-size: 24px;
+    margin-right: 40px;
+    transition: 0.4s;
+}
+
+.manu-itms:hover {
+    background-color: rgb(219, 127, 173);
+}
+
+.button2 {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 20px 27px 20px 27px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+}
+
+.button2:hover {
+    background-color: rgb(31, 30, 30);
+}
+
+.button1 {
+    text-decoration: none;
+    color: black;
+    margin-right: 24px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 24px;
+    transition: 0.4s;
+}
+
+.button1:hover {
+    background-color:  rgb(202, 103, 153);
+}
